@@ -15,7 +15,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shwe0601&theme=radical&show_icons=true&count_private=true)&nbsp;
 
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="developer" align="left" width="400px" height="400px"/>
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="developer" align="left" width="600px" height="400px"/>
 
 <h2 align="left">🚀 Skills </h2> <br>
 <div>
