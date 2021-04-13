@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="developer" align="right" width="550px" height="300px"  />
 <h3 align="center">I'm a sophomore pursuing Computer Science Engineering.</h3>
 <ul>
-  <li>🔭I’m currently learning Web Development Technologies in Frontend and Backend .</li><br>
+  <li>🔭I’m currently learning Web Development and Python .</li><br>
   <li>A person to whom computer and programming fascinates more than humans.^_^</li>
   <li> Fact about me:🔍Learning never exhausts my mind :)</li>
 </ul>  
