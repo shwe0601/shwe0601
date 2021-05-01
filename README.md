@@ -1,5 +1,5 @@
 <h1>Hey there! I'm Shweta<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"> </h1>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="developer" align="right" width="550px" height="200px"  />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="developer" align="right" width="550px" height="250px"  />
 <h3 align="center">A sophomore pursuing Computer Science Engineering.</h3>
 <ul>
   <li>🔭I’m currently learning Web Development and Python .</li><br>
@@ -10,7 +10,7 @@
  ---
  
   <img src="https://visitor-badge.glitch.me/badge?page_id=shwe0601.visitor-badge" align="center" width="100px">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwe0601&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwe0601&layout=compact&theme=tokyonight" alt="Top Languages">
   
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shwe0601&theme=radical&show_icons=true&count_private=true)&nbsp;
