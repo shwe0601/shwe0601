@@ -50,8 +50,7 @@
 
 <p align="center">
    <i>
-     "If You Think Math is Hard Try Web Design" <br>
-                                         -Trish Parr
+    “Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” – Dan Salomon
   </i>
 </p>       
 
