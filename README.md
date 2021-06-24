@@ -39,7 +39,7 @@
   </div>
   
   --- 
-  <h3 align="right">Connect with me ✨:</h3>
+  <h3 align="center">Connect with me ✨:</h3>
   
  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" align="right" width="4.5%"/>](https://www.linkedin.com/in/shweta-badri-narayanan-0287371b9)
   <a href="mailto:shwetabadrinarayanan@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" align="right" width="4.5%"/> </a><br>
