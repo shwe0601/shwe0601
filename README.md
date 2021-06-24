@@ -32,7 +32,7 @@
 
   </p>
   
-<img src="https://thumbs.dreamstime.com/b/media-developer-female-office-media-developer-female-office-176079001.jpg" width="250px" height="250px"/>
+<img src="https://thumbs.dreamstime.com/b/media-developer-female-office-media-developer-female-office-176079001.jpg" width="250px" height="250px" padding= "20%" />
  <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwe0601&layout=compact&theme=tokyonight" alt="Top Languages">
 
   </div>
