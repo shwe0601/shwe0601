@@ -16,7 +16,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shwe0601&theme=radical&show_icons=true&count_private=true)&nbsp;<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shwe0601&theme=jolly)](https://git.io/streak-stats)
 
-<h2 align="center">🚀 Skills </h2> <br>
+<h2 align="right">🚀 Skills </h2> <br>
 <div>
 <p align="center">
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="html" width="40" height="40" /></code>&nbsp;
