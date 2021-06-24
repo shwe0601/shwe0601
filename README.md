@@ -14,6 +14,7 @@
   
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shwe0601&theme=radical&show_icons=true&count_private=true)&nbsp;
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shwe0601&theme=jolly)](https://git.io/streak-stats)
 
 
 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="developer" align="left" width="450px" height="300px"/>
@@ -56,9 +57,6 @@
 
 
 ---
-<p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shwe0601&theme=jolly)](https://git.io/streak-stats)
-</p>
 
 
 
