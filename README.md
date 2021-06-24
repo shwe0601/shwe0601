@@ -31,7 +31,7 @@
   <code><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></code>&nbsp;
    <code><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" /></code>&nbsp;
   <br>
-  <img  algin="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwe0601&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img  width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwe0601&layout=compact&theme=tokyonight" alt="Top Languages">
 
   </p>
 
