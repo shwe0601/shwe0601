@@ -17,10 +17,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shwe0601&theme=jolly)](https://git.io/streak-stats)
 
 
-<img src="https://thumbs.dreamstime.com/b/media-developer-female-office-media-developer-female-office-176079001.jpg" width="400px" height="400px"/>
-
-<h2 align="right">🚀 Skills </h2> <br>
-<img src="https://thumbs.dreamstime.com/b/media-developer-female-office-media-developer-female-office-176079001.jpg" width="400px" height="400px"/>
+<img src="https://thumbs.dreamstime.com/b/media-developer-female-office-media-developer-female-office-176079001.jpg" width="400px" height="400px"/><h2 align="right">🚀 Skills </h2> <br>
 <div>
 <p align="right">
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="html" width="40" height="40" /></code>&nbsp;
