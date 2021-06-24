@@ -29,7 +29,8 @@
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40" /></code>&nbsp;<br>
   <code><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /></code>&nbsp;
   <code><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></code>&nbsp;
-   <code><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" /></code>&nbsp;<br>
+   <code><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" /></code>&nbsp;
+  <br>
   <img  algin="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwe0601&layout=compact&theme=tokyonight" alt="Top Languages">
 
   </p>
