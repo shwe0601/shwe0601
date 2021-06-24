@@ -32,8 +32,8 @@
 
   </p>
   
-<img src="https://thumbs.dreamstime.com/b/media-developer-female-office-media-developer-female-office-176079001.jpg" width="300px" height="300px"/>
- <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwe0601&layout=compact&theme=tokyonight" alt="Top Languages">
+<img src="https://thumbs.dreamstime.com/b/media-developer-female-office-media-developer-female-office-176079001.jpg" width="500px" height="500px"/>
+ <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwe0601&layout=compact&theme=tokyonight" alt="Top Languages">
 
   </div>
   
