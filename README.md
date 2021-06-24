@@ -9,7 +9,7 @@
 
  ---
  
-  <img src="https://visitor-badge.glitch.me/badge?page_id=shwe0601.visitor-badge" align="center" width="100px">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=shwe0601.visitor-badge" align="center" width="100px"><br>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwe0601&layout=compact&theme=tokyonight" alt="Top Languages">
   
 
