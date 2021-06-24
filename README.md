@@ -56,8 +56,9 @@
 
 
 ---
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shwe0601&theme=jolly)](https://git.io/streak-stats)
-
+</p>
 
 
 
