@@ -1,6 +1,6 @@
 <h1>Hey Peeps! I'm Shweta<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"> </h1>
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="developer" align="right" width="520px" height="250px"  />
-<h3 align="center">A sophomore pursuing Computer Science Engineering.</h3>
+ <h3 align="center">A Sophomore pursuing Computer Science Engineering  .</h3>
 <ul>
   <li>🔭I’m currently learning Web Development and Python .</li><br>
   <li>A person to whom computer and programming fascinates more than humans.^_^</li>
