@@ -33,9 +33,9 @@
   </p>
  <p>
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwe0601&layout=compact&theme=tokyonight" alt="Top Languages">
-  <img align="center"src="https://thumbs.dreamstime.com/b/media-developer-female-office-media-developer-female-office-176079001.jpg" width="250px" height="260px"  />
+  <img align="right"src="https://thumbs.dreamstime.com/b/media-developer-female-office-media-developer-female-office-176079001.jpg" width="250px" height="260px"  />
   </p>
- <img src="https://thumbs.dreamstime.com/b/media-developer-female-office-media-developer-female-office-176079001.jpg" width="250px" height="260px"  />
+
   
 
   </div>
