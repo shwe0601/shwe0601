@@ -10,7 +10,7 @@
  ---
  
   <img src="https://visitor-badge.glitch.me/badge?page_id=shwe0601.visitor-badge" align="center" width="100px">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwe0601&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwe0601&layout=compact&theme=tokyonight" alt="Top Languages">
   
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shwe0601&theme=radical&show_icons=true&count_private=true)&nbsp;<br>
