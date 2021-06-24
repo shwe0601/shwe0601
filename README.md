@@ -17,7 +17,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shwe0601&theme=jolly)](https://git.io/streak-stats)
 
 
-<img src="https://static.vecteezy.com/system/resources/thumbnails/000/227/854/small_2x/female-developer-vector.jpg" alt="developer" align="left" width="450px" height="500px"/>
+<img src="https://image.freepik.com/free-vector/freelancer-programmer-woman-character-work-personal-computer-female-occupation-professional-web-developer-isolated-white-cartoon-illustration_169479-916.jpg" alt="developer" align="left" width="450px" height="500px"/>
 
 <h2 align="left">🚀 Skills </h2> <br>
 <div>
