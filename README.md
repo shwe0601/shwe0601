@@ -56,7 +56,7 @@
 
 <p align="center">
    <i>
-    "Code is like humor. When you have to explain it, it’s bad.” – Cory House
+    All problems in computer science can be solved by another level of indirection. — David Wheeler
   </i>
 </p> 
 
