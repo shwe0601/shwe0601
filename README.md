@@ -3,7 +3,7 @@
  <h3 align="center">A Pre-Final year student pursuing Computer Science Engineering  .</h3>
 <ul>
   <li>🔭I’m currently learning Web Development and Python .</li><br>
-  <li>That kinda person to whom computer and programming fascinates more than humans😌.</li>
+  <li>That kinda person to whom computer and programming is more fascinating than humans😌.</li>
   <li> Fact about me:🔍Learning never exhausts my mind ✨</li>
 </ul>  
 
