@@ -1,8 +1,6 @@
-<h1>Hey Peeps! I'm Shweta<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"> </h1>
+<h1>Hey Y'all! I'm Shweta <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"> </h1>
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="developer" align="right" width="520px" height="250px"  />
- <h3 align="center">A Final year student pursuing Computer Science Engineering  .</h3>
-<ul>
-  <li>🔭I’m currently learning Web Development and Python .</li><br>
+ 
   <li>That kinda person to whom computer and programming is more fascinating than humans😌.</li>
   <li> Fact about me:🔍Learning never exhausts my mind ✨</li>
 </ul>  
@@ -12,9 +10,6 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=shwe0601.visitor-badge" align="center" width="100px">
   
   
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=shwe0601&theme=radical&show_icons=true&count_private=true)&nbsp;<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shwe0601&theme=jolly)](https://git.io/streak-stats)
 
 <h2 align="center">🚀 Skills </h2> <br>
 <div>
@@ -39,18 +34,7 @@
   
 
   </div>
-  
-  --- 
-  <h3 align="right">Connect with me ✨:</h3>
 
- [<img src="https://img.icons8.com/color/48/000000/linkedin.png" align="right" width="4.5%"/>](https://www.linkedin.com/in/shweta-badri-narayanan-0287371b9)
-  <a href="mailto:shwetabadrinarayanan@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" align="right" width="4.5%"/> </a><br>
- 
- 
- 
- 
-
-  
   
  --- 
 
