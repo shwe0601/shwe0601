@@ -6,11 +6,6 @@
 </ul>  
 
  ---
- 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=shwe0601.visitor-badge" align="center" width="100px">
-  
-  
-
 <h2 align="center">🚀 Skills </h2> <br>
 <div>
 <p align="center">
@@ -28,14 +23,9 @@
   </p>
  <p>
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwe0601&layout=compact&theme=tokyonight" alt="Top Languages">
-  <img align="right"src="https://thumbs.dreamstime.com/b/media-developer-female-office-media-developer-female-office-176079001.jpg" width="250px" height="260px"  />
-  </p>
-
-  
-
+ </p>
   </div>
 
-  
  --- 
 
 <p align="center">
